@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @azzi333
-- 👀 I’m interested in python and QA
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 👋 Hi, I’m Momchil Georgiev
+- 👀 I’m interested in Python and QA
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me georgiev_momchil@yahoo.com
 
 <!---
